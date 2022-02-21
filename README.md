@@ -1,6 +1,12 @@
 # Budget Tracker
 
-AS AN avid traveler
+## Site deployed with heroku here:
+https://shielded-lake-93124.herokuapp.com/
+
+## Screenshot
+<img src="./budget-tracker.png">
+
+### AS AN avid traveler
 
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 - SO THAT my account balance is accurate when I am traveling 
